@@ -241,6 +241,9 @@ for i in range(number_rows):
 
 final_answer = (k)/(k+m)
 
-"""# calculate final answer"""
+print("correct guess = ",k)
+print("total review = ",k+m)
+
+"""# calculate percent of corrected guess"""
 
 print("percent correct guess = " ,final_answer)
